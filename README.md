@@ -1,4 +1,4 @@
-# Chickenpie-Farm — Cloud Run Starter
+# Slingshot Global — Cloud Run Starter
 
 This is a minimal React + Express project wired for Google Cloud Run using a Dockerfile build.
 
